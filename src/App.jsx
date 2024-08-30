@@ -12,7 +12,7 @@ const App=()=> {
     <Navbar></Navbar>
     <Hero></Hero>
     <Highlights></Highlights>
-    <Model></Model>
+  
     <Features></Features>
     <HowItWorks></HowItWorks>
     </main>
